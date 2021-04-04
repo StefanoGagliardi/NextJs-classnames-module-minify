@@ -1,0 +1,42 @@
+{
+  "name": "nextjs-classnames-module-minify",
+  "description": "Minify all css/sass module file classNames with letter",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "css-class-generator": "^2.0.0"
+  },
+  "keywords": [
+    "next",
+    "next10",
+    "nextjs",
+    "next.js",
+    "minify",
+    "module",
+    "tailwind",
+    "webpack",
+    "cssloader",
+    "getlocalident",
+    "verbose",
+    "class",
+    "classname",
+    "css",
+    "scss",
+    "sass"
+  ],
+  "homepage": "https://github.com/StefanoGagliardi/nextjs-classnames-module-minify#readme",
+  "bugs": {
+    "url": "https://github.com/StefanoGagliardi/nextjs-classnames-module-minify/issues",
+    "email": "stefano.gagliardi@sitisrl.it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StefanoGagliardi/nextjs-classnames-module-minify.git"
+  },
+  "author": {
+    "name": "Stefano Gagliardi",
+    "email": "stefano.gagliardi@sitisrl.it",
+    "url": "https://github.com/StefanoGagliardi"
+  },
+  "license": "MIT"
+}
